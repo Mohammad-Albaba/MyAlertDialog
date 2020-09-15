@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تنظيف</string>
+    <string name="MessageTest">هل أنت متأكد من حذف البيانات؟</string>
+    <string name="Tittle">هل أنت متأكد من حذف البيانات؟</string>
+    <string name="btntext">مسح البيانات</string>
+    <string name="dialogTitle">تنبيه</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+</resources>

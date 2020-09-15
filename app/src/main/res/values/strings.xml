@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAlertDialog</string>
+    <string name="MessageTest">Are you sure you want Delete text?</string>
+    <string name="Tittle">Are you sure you want Delete text?</string>
+    <string name="btntext">Delete</string>
+    <string name="dialogTitle">Attention</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
